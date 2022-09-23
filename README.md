@@ -1,5 +1,4 @@
-Video de la prueba 
-https://youtu.be/NedTbN7RSEM
+
 
 # Getting Started with Create React App
 
